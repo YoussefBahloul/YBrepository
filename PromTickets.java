@@ -1,5 +1,10 @@
 package conditionals;
 
+/**
+ *Author: Youssef Bahloul and Corbin Poisson
+ *Date: Dec 18, 2020
+ *Decription: Decides the cost of tickets as well as the 6 digit random code for students based on their gradelevel and group type
+ */
 public class PromTickets {
 	String name;
 	String classification;

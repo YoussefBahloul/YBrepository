@@ -1,5 +1,10 @@
 package conditionals;
 
+/**
+ *Author: Youssef Bahloul and Corbin Poisson
+ *Date: Dec 18, 2020
+ *Decription: Tester class for the PromTickets class
+ */
 public class PromTicketsTest {
 
 	public static void main(String[] args) {
